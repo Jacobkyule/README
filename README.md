@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Jacobkyule
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning front-end engineering
-- 💞️ I’m looking to collaborate on building personal portfolio page
+- ✨️ I'm have completed learning front-end engineering. 
+- 🌱 I’m currently learning back-end engineering
+- 💞️ I’m looking to collaborate on building cool stuff.
 - 📫 How to reach me;
-- jacobkyule@outlook.com
+. https://jacobkyule-portfolio.netlify.app
+. jacobkyule@outlook.com
 
 <!---
 Jacobkyule/Jacobkyule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
