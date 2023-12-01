@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning back-end engineering
 - 💞️ I’m looking to collaborate on building cool stuff.
 - 📫 How to reach me;
-. https://jacobkyule-portfolio.netlify.app
-. jacobkyule@outlook.com
+- https://jacobkyule-portfolio.netlify.app
+- jacobkyule@outlook.com
 
 <!---
 Jacobkyule/Jacobkyule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
